@@ -1,4 +1,4 @@
 # concert-freak-v2
 concert app
 
-zarela
+By Zarela & Rachel
